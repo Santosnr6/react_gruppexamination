@@ -28,8 +28,17 @@ Ert uppdrag är att skapa en filmdatabas-applikation med hjälp av frontendbibli
 #### santosnr6.github.io
 Mitt eget film-API där ni hittar förslag på filmer att använda på startsidan, för att bland annat kunna ge användaren föralag på filmer att titta på.
 
+IMDBs Top 20:
 ```
 GET https://santosnr6.github.io/Data/movies.json
+```
+Mina gamla favoriter:
+```
+GET https://santosnr6.github.io/Data/movies2.json
+```
+Båda listorna tillsammans:
+```
+GET https://santosnr6.github.io/Data/movies_long.json
 ```
 
 #### OMDB API (ni får använda ett bättre API om ni vill istället)
