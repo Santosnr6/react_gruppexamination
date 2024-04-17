@@ -18,7 +18,7 @@ Ert uppdrag är att skapa en filmdatabas-applikation med hjälp av frontendbibli
 - Som besökare vill jag kunna söka efter filmer oavsett var någonstans på webbplatsen jag befinner mig, så att jag slipper leta efter sökfunktionen.
 - Som besökare så vill jag att min sökning skall ge flera resultat, ifall det är så att jag inte vet den exakta titeln på filmen jag söker efter.
 - Som besökare vill jag kunna få detaljerad information om en film, för att kunna bestämma mig om filmen är någonting för mig.
-- Som besökare vill jag kunna se trailern till en film som jag klickat på, för att kunna bestämma mig om filmen är någonting för mig.
+- (Som besökare vill jag kunna se trailern till en film som jag klickat på, för att kunna bestämma mig om filmen är någonting för mig).
 - Som besökare vill jag kunna lägga till filmer i en favoritlista, för att kunna hålla koll på vlka filmer jag tidigare sett, och tyckt om.
 - Som besökare vill jag kunna lägga till filmer som jag vill se i en Watchlist, så att jag kommer ihåg dem i efterhand.
 - Som besökare med diverse funktionsvariationer så vill jag att applikationen skall vara tillgänglighetsanpassad, så att även jag får ta del av dess innehåll och funktion.
